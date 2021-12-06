@@ -1,9 +1,9 @@
 
-Group Information:
-    Ravi Kumar Reddy Paindla
-    Amulya Udayakumar
+1. Group Information:
+   a. Ravi Kumar Reddy Paindla
+   b. Amulya Udayakumar
 
-Github URL:
+2. Github URL:
   https://github.com/ravireddy78/CodeManagement.git
 
 Group Work:
